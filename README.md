@@ -28,20 +28,21 @@ The report comprises of 2 dashboards and there is a small table. You will see th
 ![](employee.JPG)
 
 ![](employee2.JPG)
+
 ## Analysis
-- Survey Questions
+### Survey Questions
 
 ![](employ-que1.JPG)
 
-From the feedback, most of the empolyees strongly agreed on the survey question "I know what is expected of me at work" and strongly disagree on the survey question "In the last seven days, I have received recognition or praise for doing good work"
+From the feedback, most of the employees strongly agreed on the survey question "I know what is expected of me at work" and strongly disagree on the survey question "In the last seven days, I have received recognition or praise for doing good work".
 
-- Trends in the department role
+### Trends in the department role
   
 ![](employ-que3.JPG)
 
 I noticed there is a trend in Planning and Public Work department, this department has the highest response except for strongly disagree response,though they are the top 2
 
-- Steps to take
+### Steps to take
 1.  As an employee, I will focus on the disagree and strongly disagree response of the survey results then I will try to work on them
 
 ![](employ-que2.JPG)
@@ -54,7 +55,7 @@ From the response, you will notice that most employee does not have a best frien
 
 4.  I will make rooms for seminars and workshop for learning and growth of every employees and the company.
 
-- Insights
+### Insights
 
 ![](employ-que4.JPG)
 
