@@ -62,7 +62,7 @@ From the response, you will notice that most employee does not have a best frien
 From my insights, I calculated for Director,Manager,Supervisor and Staff. I noticed the strongly agreee response text from director, manager and supervisor has higher percentage in that they already know what they're getting into compared to other staffs that just only agree.
 
 ## Recommendation
-- I will recommend a continous survey questions so that the employee will know what's going on in the company
+- I will recommend a continous survey questions so that the employer will know what's going on in the company
 - I will also recommend an employee's  report at the end of the month so that there won't be ba bias due to positions
 - I will also recommend seminars and workshop for learning and growth of every employees and the company.
 
