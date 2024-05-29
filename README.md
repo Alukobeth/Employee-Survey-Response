@@ -43,13 +43,13 @@ From the feedback, most of the employees strongly agreed on the survey question 
 I noticed there is a trend in Planning and Public Work department, this department has the highest response except for strongly disagree response,though they are the top 2
 
 ### Steps to take
-1.  As an employee, I will focus on the disagree and strongly disagree response of the survey results then I will try to work on them
+1.  As an employer, I will focus on the disagree and strongly disagree response of the survey results then I will try to work on them
 
 ![](employ-que2.JPG)
 
 From the response, you will notice that most employee does not have a best friend and they have never been praised after a good work, which means the work environment is not eco-friendly and there is no encouragement.
 
-2.  As an employee,I will try and make the work enviroment eco-friendly and employee who do their best will be praised and be given a bonus.
+2.  As an employer,I will try and make the work enviroment eco-friendly and employee who do their best will be praised and be given a bonus.
    
 3.  I will try to make an employee's report at the end of the each months, where employees will be rated according to their performance so that those with low rating will be accountable for their performance and will learn to grow and perform better.
 
