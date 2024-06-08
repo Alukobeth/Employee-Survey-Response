@@ -25,14 +25,14 @@ The report comprises of 2 dashboards and there is a small table. You will see th
 -  3 — Agree 
 -  4 — Strongly Agree
 
-![](employee.JPG)
+![](dashboard.JPG)
 
 ![](employee2.JPG)
 
 ## Analysis
 ### Survey Questions
 
-![](dashboard.JPG)
+![](employ-que1.JPG)
 
 
 From the feedback, most of the employees strongly agreed on the survey question "I know what is expected of me at work" and strongly disagree on the survey question "In the last seven days, I have received recognition or praise for doing good work".
