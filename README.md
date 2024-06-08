@@ -32,7 +32,7 @@ The report comprises of 2 dashboards and there is a small table. You will see th
 ## Analysis
 ### Survey Questions
 
-![](employ-que1.JPG)
+![](que1.JPG)
 
 
 From the feedback, most of the employees strongly agreed on the survey question "I know what is expected of me at work" and strongly disagree on the survey question "In the last seven days, I have received recognition or praise for doing good work".
@@ -46,7 +46,7 @@ I noticed there is a trend in Planning and Public Work department, this departme
 ### Steps to take
 1.  As an employer, I will focus on the disagree and strongly disagree response of the survey results then I will try to work on them
 
-![](employ-que2.JPG)
+![](que2.JPG)
 
 From the response, you will notice that most employee does not have a best friend and they have never been praised after a good work, which means the work environment is not eco-friendly and there is no encouragement.
 
